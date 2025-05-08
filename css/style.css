@@ -1,7 +1,7 @@
 body{
 background-color: rgba(145, 81, 44, 0.637);
-background: linear-gradient(80d) 
-
+background: linear-gradient(80d);
+color:white;
 }
 
 
@@ -11,6 +11,7 @@ nav{
  transition: color 03s ease,transform 0.3s
  ease;
 }
+
 
 
 
